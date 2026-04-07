@@ -4,7 +4,7 @@
 
 This project segments customers based on their income and spending behavior using K-Means clustering.
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
